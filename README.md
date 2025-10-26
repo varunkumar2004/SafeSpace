@@ -1,5 +1,5 @@
 # SafeSpace
-## SafeSpace is a native Android application developed entirely in Kotlin to help users with stress detection and management. This project incorporates machine and deep learning models include emotion detection using images, recommendations system using sentiment analysis and stress detection using sensors which were developed as a part of this project. This project was created as part of a summer internship at Thapar Institute of Engineering and Technology (TIET).
+### SafeSpace is a native Android application developed entirely in Kotlin to help users with stress detection and management. This project incorporates machine and deep learning models include emotion detection using images, recommendations system using sentiment analysis and stress detection using sensors which were developed as a part of this project. This project was created as part of a summer internship at Thapar Institute of Engineering and Technology (TIET).
 
 ## Table of Contents
 - Feature
